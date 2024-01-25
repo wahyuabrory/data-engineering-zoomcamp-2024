@@ -50,9 +50,10 @@ docker run -it \
     dpage/pgadmin4
 ```
 after that you'll be directed to the pgAdmin page, and you can login using the email and password that you set before. 
-![Alt text](image.png)
+![pgAdmin-Postgres](https://github.com/wahyuabrory/data-engineering-zoomcamp-2024/blob/b9ed836c289e075595445741b1079e3e39a5b62d/images/pgAdmin-postgres.png)
 Btw you can't just connect pgAdmin and Postgres, you need to set the network first.
-![Alt text](image-1.png)
+![pgAdmin-Postgres-network](https://github.com/wahyuabrory/data-engineering-zoomcamp-2024/blob/b9ed836c289e075595445741b1079e3e39a5b62d/images/pgAdmin-postgres-network.png)
+
 
 So you need to set the network using this command
 ```bash
