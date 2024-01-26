@@ -137,3 +137,6 @@ and shutdown the docker compose
 ```bash
 docker-compose down
 ```
+
+# SQL
+Now you can run some SQL query refresher, access the `localhost:8080` on your browser and login using the email and password that you set before. Then you can start querying the data. You can take a look at [sql_refresher.sql](https://github.com/wahyuabrory/data-engineering-zoomcamp-2024/blob/f24d749fd6ac3d0e0c7abb354f0dc2bc2429b924/01_docker_and_terraform/02_docker_sql/sql_refresher.sql)
