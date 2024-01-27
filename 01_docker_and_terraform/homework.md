@@ -1,5 +1,5 @@
 # Week 1 Homework
-In this homework we'll prepare docker environment, postgres database, and some terraform basic code
+In this homework we'll prepare the environment and practice with Docker and SQL. More information here: https://github.com/DataTalksClub/data-engineering-zoomcamp/blob/main/cohorts/2024/01-docker-terraform/homework.md If none of the options match, select the closest one.
 
 ## Question 1 - Knowing docker tags
 Run the command to get information on Docker
